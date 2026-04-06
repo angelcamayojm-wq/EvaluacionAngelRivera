@@ -1,5 +1,13 @@
-<<<<<<< HEAD
+ feature/login
+
 Feature login
-=======
+
 Hotfix error
->>>>>>> hotfix/error
+ main
+
+HEAD
+Feature login
+
+Hotfix error
+ hotfix/error
+ main
